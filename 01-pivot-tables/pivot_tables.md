@@ -13,7 +13,7 @@
 Which region generates the highest sales?
 
 **Answer**  
-[Regional_Sales_Performance](Screenshots/task_1.png)
+![Regional_Sales_Performance](Screenshots/task_1.png)
 */West Region generates highest sales./*
 
 **Reflection**  
