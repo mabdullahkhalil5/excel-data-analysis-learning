@@ -99,3 +99,17 @@ How do sales change month by month?
 
 **Reflection**  
 This task helped me to  learn how to visualize time‑based patterns with Pivot Charts.
+
+
+## Task 7 – Customer Segment Analysis
+
+**Business Question**  
+Which customer segment generates the highest revenue?
+
+**Answer**  
+![Customer_Segment_Analysis](Screenshots/task_7.png)
+
+*Consumer Segment* generates the highest revenue.
+
+**Reflection**  
+This task taught me to compare different customer groups and understand their contribution to revenue and profit.
