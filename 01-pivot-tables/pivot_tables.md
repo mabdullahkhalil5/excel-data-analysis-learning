@@ -87,3 +87,15 @@ The 15 products with Highest loss are shown in the screenshot.
 
 **Reflection**  
 This task helped me to detect negative profitability. I practiced filtering conditions (Profit < 0) and learn how to spot risks in product portfolios.
+
+
+## Task 6 – Monthly Sales Trend
+
+**Business Question**  
+How do sales change month by month?
+
+**Answer**  
+![Monthly_Sales_Trend](Screenshots/task_6.png)
+
+**Reflection**  
+This task helped me to  learn how to visualize time‑based patterns with Pivot Charts.
