@@ -52,3 +52,19 @@ Which product category contributes the most revenue?
 
 **Reflection**  
 This task helped me understand Top/Bottom analysis.
+
+
+## Task 4 – Most Profitable Products
+
+**Business Question**  
+Which 15 products earn the highest profit?
+
+**Answer**  
+![Most_Profitable_Products](Screenshots/task_4.png)
+
+The 15 products with highest profit are shown in the screenshot.
+
+
+
+**Reflection**  
+This task helped me understand *Top N analysis* to identify the most valuable products and prioritize them for business decisions.
