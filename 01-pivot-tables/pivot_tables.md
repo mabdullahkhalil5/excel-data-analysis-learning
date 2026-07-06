@@ -113,3 +113,17 @@ Which customer segment generates the highest revenue?
 
 **Reflection**  
 This task taught me to compare different customer groups and understand their contribution to revenue and profit.
+
+
+## Task 8 – Discount Impact
+
+**Business Question**  
+Are high discounts reducing profits?
+
+**Answer**  
+![Discount_Impact](Screenshots/task_8.png)
+
+*Yes*, High discounts greater than 30% are reducing profits.
+
+**Reflection**
+This task helped me to build skills in correlation analysis. I learned how discounts affect profitability and practice grouping continuous values (Discount ranges).
