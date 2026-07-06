@@ -37,3 +37,18 @@ The top 10 states generated highest revenue are:
 
 **Reflection**  
 This task helped me understand Filtering and Sorting data in Pivot Tables.
+
+
+## Task 3 – Product Category Analysis
+
+**Business Question**  
+Which product category contributes the most revenue?
+
+**Answer**  
+![Top_Performing_Category](Screenshots/task_3.png)
+
+*Products with Technology category contributed the most revenue and also Profit.*
+
+
+**Reflection**  
+This task helped me understand Top/Bottom analysis.
