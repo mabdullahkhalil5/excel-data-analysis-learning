@@ -68,3 +68,22 @@ The 15 products with highest profit are shown in the screenshot.
 
 **Reflection**  
 This task helped me understand *Top N analysis* to identify the most valuable products and prioritize them for business decisions.
+
+
+## Task 5 – Loss Making Products
+
+**Business Question**  
+Which products are losing the company money?
+
+**Answer**  
+![Loss_Making_Products](Screenshots/task_5.png)
+
+The 15 products with Highest loss are shown in the screenshot.
+
+
+*There are total 301 loss making products which are creating a total loss of $77,068.*
+
+
+
+**Reflection**  
+This task helped me to detect negative profitability. I practiced filtering conditions (Profit < 0) and learn how to spot risks in product portfolios.
