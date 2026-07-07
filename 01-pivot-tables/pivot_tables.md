@@ -127,3 +127,12 @@ Are high discounts reducing profits?
 
 **Reflection**
 This task helped me to build skills in correlation analysis. I learned how discounts affect profitability and practice grouping continuous values (Discount ranges).
+
+
+## Task 9 – Regional Dashboard
+
+**Dashboard** 
+![Regional_Dashboard](Screenshots/task_9.png)
+
+**Reflection**
+This task helped me to build interactive reporting. I got an understanding on combining multiple Pivot Tables and Charts with slicers to create dynamic dashboard.
