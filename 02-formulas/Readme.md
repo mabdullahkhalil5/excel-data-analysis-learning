@@ -68,3 +68,15 @@ Extract the first 5 characters of every Order ID and the last 3 characters of ev
 
 **Reflection**  
 This task highlighted how string functions can generate codes.
+
+## Task 6– Convert Dates for Reports
+
+**Business Question**  
+Display Order Date as Month-Year.
+
+**Answer**  
+![Converted_Date](Screenshots/task_6.png)
+
+
+**Reflection**  
+I learned how to reformat dates for reporting.
