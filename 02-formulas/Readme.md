@@ -51,8 +51,20 @@ This task helped me to undertsand how to segment sales into meaningful ranges.
 How many characters are in each product name?
 
 **Answer**  
-![Sales_Performance_Rating](Screenshots/task_4.png)
+![Product_Name_Analysis](Screenshots/task_4.png)
 
 
 **Reflection**  
 This task helped me to undertsand how text functions help validate data quality.
+
+## Task 5 – Product Code Extraction
+
+**Business Question**  
+Extract the first 5 characters of every Order ID and the last 3 characters of every Product Name.
+
+**Answer**  
+![Product_Code_Extraction](Screenshots/task_5.png)
+
+
+**Reflection**  
+This task highlighted how string functions can generate codes.
