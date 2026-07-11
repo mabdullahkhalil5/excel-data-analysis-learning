@@ -27,8 +27,20 @@ This task helped me understand quickly identify extreme values for reporting.
 Classify every order based on its profit.
 
 **Answer**  
-![Heighest_Lowest_Sales](Screenshots/task_2.png)
+![Profit_Classification](Screenshots/task_2.png)
 
 
 **Reflection**  
 This task helped me how simple logic functions can classify outcomes.
+
+## Task 3 – Sales Performance Rating
+
+**Business Question**  
+Categorize every order based on Sales.
+
+**Answer**  
+![Sales_Performance_Rating](Screenshots/task_3.png)
+
+
+**Reflection**  
+This task helped me to undertsand how to segment sales into meaningful ranges.
