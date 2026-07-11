@@ -69,7 +69,7 @@ Extract the first 5 characters of every Order ID and the last 3 characters of ev
 **Reflection**  
 This task highlighted how string functions can generate codes.
 
-## Task 6– Convert Dates for Reports
+## Task 6 – Convert Dates for Reports
 
 **Business Question**  
 Display Order Date as Month-Year.
@@ -80,3 +80,15 @@ Display Order Date as Month-Year.
 
 **Reflection**  
 I learned how to reformat dates for reporting.
+
+## Task 7 – Customer Name Cleaning
+
+**Business Question**  
+Some customer names contain extra spaces. Remove them.
+
+**Answer**  
+![Cleaned-Customer-Names](Screenshots/task_7.png)
+
+
+**Reflection**  
+This task helped me to understand the importance of data cleaning.
