@@ -44,3 +44,15 @@ Categorize every order based on Sales.
 
 **Reflection**  
 This task helped me to undertsand how to segment sales into meaningful ranges.
+
+## Task 4 – Product Name Analysis
+
+**Business Question**  
+How many characters are in each product name?
+
+**Answer**  
+![Sales_Performance_Rating](Screenshots/task_4.png)
+
+
+**Reflection**  
+This task helped me to undertsand how text functions help validate data quality.
