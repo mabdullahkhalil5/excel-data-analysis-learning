@@ -20,3 +20,15 @@ Which order generated the highest sales and which generated the lowest sales?
 
 **Reflection**  
 This task helped me understand quickly identify extreme values for reporting.
+
+## Task 2 – Profit Classification
+
+**Business Question**  
+Classify every order based on its profit.
+
+**Answer**  
+![Heighest_Lowest_Sales](Screenshots/task_2.png)
+
+
+**Reflection**  
+This task helped me how simple logic functions can classify outcomes.
