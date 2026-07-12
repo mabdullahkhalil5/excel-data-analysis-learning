@@ -106,3 +106,14 @@ Example:
 
 **Reflection**  
 This task helped me to understand how concatenation can create meaningful labels.
+
+## Task 9 – Standardize Product Names
+
+**Business Question**  
+Replace every occurrence of "Phones" with "Mobile Phones".
+**Answer**  
+![Standarized-Product_Names](Screenshots/task_9.png)
+
+
+**Reflection**  
+This task taught me how to enforce naming consistency.
