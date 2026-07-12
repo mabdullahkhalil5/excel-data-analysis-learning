@@ -92,3 +92,17 @@ Some customer names contain extra spaces. Remove them.
 
 **Reflection**  
 This task helped me to understand the importance of data cleaning.
+
+## Task 8 – Customer Label
+
+**Business Question**  
+Create a label:
+            Customer Name - State
+Example:
+            Sean Miller - California
+**Answer**  
+![Customer-Label](Screenshots/task_8.png)
+
+
+**Reflection**  
+This task helped me to understand how concatenation can create meaningful labels.
