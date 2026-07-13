@@ -110,10 +110,22 @@ This task helped me to understand how concatenation can create meaningful labels
 ## Task 9 – Standardize Product Names
 
 **Business Question**  
-Replace every occurrence of "Phones" with "Mobile Phones".
+Replace every occurrence of "Phones" with "Mobile Phones".  
+
 **Answer**  
 ![Standarized-Product_Names](Screenshots/task_9.png)
 
-
 **Reflection**  
 This task taught me how to enforce naming consistency.
+
+
+## Task 10 - Regional Revenue
+
+**Business Question**  
+Calculate total Sales for the West region.
+
+**Answer**  
+![Regional Revenue](Screenshots/task_10.png)
+
+**Reflection**  
+This task helped me to understand conditional summation and  how companies track regional performance to allocate resources effectively.
