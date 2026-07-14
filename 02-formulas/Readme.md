@@ -142,7 +142,7 @@ Calculate total Sales for the Technology category.
 **Reflection**  
 This task helped me to isolate category‑specific revenue. Businesses rely on this to identify their strongest product lines. 
 
-## Task 11 - Multicondition Sales
+## Task 12 - Multicondition Sales
 
 **Business Question**  
 Calculate total Sales where:
@@ -155,3 +155,14 @@ Calculate total Sales where:
 
 **Reflection**  
 This task helped me to apply multiple filters simultaneously. This is critical for targeted analysis, like measuring sales of a product category in a specific region.
+
+## Task 13 - Total Profits
+
+**Business Question**  
+Calculate total company profit.
+
+**Answer**  
+![Total_Profits](Screenshots/task_13.png)
+
+**Reflection**  
+This task helped me in the use of aggregation functions. Summing profits provides a quick snapshot of overall business health.
