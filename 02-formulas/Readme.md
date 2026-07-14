@@ -178,4 +178,14 @@ How many orders are in the dataset?
 **Reflection**  
 This task helped to understand how counting functions measure transaction volume.
 
+## Task 15 - Orders from California
+
+**Business Question**  
+Count all orders from California.
+
+**Answer**  
+![Orders_from_California](Screenshots/task_15.png)
+
+**Reflection**  
+This task helped to understand how to filter by location. Regional order counts help companies understand geographic demand patterns.
 
