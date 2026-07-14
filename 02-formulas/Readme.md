@@ -137,7 +137,21 @@ This task helped me to understand conditional summation and  how companies track
 Calculate total Sales for the Technology category.
 
 **Answer**  
-![Regional Revenue](Screenshots/task_11.png)
+![Technology Revenue](Screenshots/task_11.png)
 
 **Reflection**  
 This task helped me to isolate category‑specific revenue. Businesses rely on this to identify their strongest product lines. 
+
+## Task 11 - Multicondition Sales
+
+**Business Question**  
+Calculate total Sales where:
+
+- Region = West
+- Category = Technology
+
+**Answer**  
+![Multicondition_Sales](Screenshots/task_12.png)
+
+**Reflection**  
+This task helped me to apply multiple filters simultaneously. This is critical for targeted analysis, like measuring sales of a product category in a specific region.
