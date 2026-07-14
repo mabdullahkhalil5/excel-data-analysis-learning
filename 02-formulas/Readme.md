@@ -166,3 +166,16 @@ Calculate total company profit.
 
 **Reflection**  
 This task helped me in the use of aggregation functions. Summing profits provides a quick snapshot of overall business health.
+
+## Task 14 - Number of Orders
+
+**Business Question**  
+How many orders are in the dataset?
+
+**Answer**  
+![No_of_Orders](Screenshots/task_14.png)
+
+**Reflection**  
+This task helped to understand how counting functions measure transaction volume.
+
+
