@@ -129,3 +129,15 @@ Calculate total Sales for the West region.
 
 **Reflection**  
 This task helped me to understand conditional summation and  how companies track regional performance to allocate resources effectively.
+
+
+## Task 11 - Technology Revenue
+
+**Business Question**  
+Calculate total Sales for the Technology category.
+
+**Answer**  
+![Regional Revenue](Screenshots/task_11.png)
+
+**Reflection**  
+This task helped me to isolate category‑specific revenue. Businesses rely on this to identify their strongest product lines. 
