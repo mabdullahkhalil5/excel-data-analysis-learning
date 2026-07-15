@@ -203,3 +203,18 @@ Count orders where:
 
 **Reflection**  
 This task helped to practice multi‑criteria counting. This is useful for segment‑based analysis.
+
+
+## Task 17 - Shipping Duration
+
+**Business Question**  
+Calculate how many days each shipment took.
+
+**Answer**  
+![Shipping_Duration](Screenshots/task_17.png)
+
+**Reflection**  
+This task helped to calculate logistics metrics. Measuring shipping days helps evaluate delivery efficiency and customer satisfaction.
+
+
+
