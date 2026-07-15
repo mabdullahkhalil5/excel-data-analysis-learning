@@ -16,7 +16,7 @@ Which order generated the highest sales and which generated the lowest sales?
 ![Heighest_Lowest_Sales](Screenshots/task_1.png)
 
 
-*Order ID CA-2018-145317 generated **highest sale of $22638.48** and Order ID US-2021-102288 generated **lowest sale of $0.444.***
+*Order ID CA-2018-145317 generated *highest sale of $22638.48* and Order ID US-2021-102288 generated *lowest sale of $0.444.*
 
 **Reflection**  
 This task helped me understand quickly identify extreme values for reporting.
@@ -127,6 +127,8 @@ Calculate total Sales for the West region.
 **Answer**  
 ![Regional Revenue](Screenshots/task_10.png)
 
+The total sale for West region is *$725,458*.
+
 **Reflection**  
 This task helped me to understand conditional summation and  how companies track regional performance to allocate resources effectively.
 
@@ -138,6 +140,8 @@ Calculate total Sales for the Technology category.
 
 **Answer**  
 ![Technology Revenue](Screenshots/task_11.png)
+
+The total sales for Technology category is *$836,154*.
 
 **Reflection**  
 This task helped me to isolate category‑specific revenue. Businesses rely on this to identify their strongest product lines. 
@@ -153,6 +157,8 @@ Calculate total Sales where:
 **Answer**  
 ![Multicondition_Sales](Screenshots/task_12.png)
 
+The total sale of west category in Technology category is **$251,992**
+
 **Reflection**  
 This task helped me to apply multiple filters simultaneously. This is critical for targeted analysis, like measuring sales of a product category in a specific region.
 
@@ -163,6 +169,8 @@ Calculate total company profit.
 
 **Answer**  
 ![Total_Profits](Screenshots/task_13.png)
+
+The total company profit is *$286,397*.
 
 **Reflection**  
 This task helped me in the use of aggregation functions. Summing profits provides a quick snapshot of overall business health.
@@ -175,6 +183,8 @@ How many orders are in the dataset?
 **Answer**  
 ![No_of_Orders](Screenshots/task_14.png)
 
+The total number of orders in dataset are *9994*.
+
 **Reflection**  
 This task helped to understand how counting functions measure transaction volume.
 
@@ -185,6 +195,8 @@ Count all orders from California.
 
 **Answer**  
 ![Orders_from_California](Screenshots/task_15.png)
+
+The total orders from California are *2001*.
 
 **Reflection**  
 This task helped to understand how to filter by location. Regional order counts help companies understand geographic demand patterns.
@@ -201,6 +213,7 @@ Count orders where:
 **Answer**  
 ![Consumer_orders_in_West_Region](Screenshots/task_16.png)
 
+The total Consumer Segment Orders from West Region are *1672*.
 **Reflection**  
 This task helped to practice multi‑criteria counting. This is useful for segment‑based analysis.
 
