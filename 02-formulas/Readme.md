@@ -189,3 +189,17 @@ Count all orders from California.
 **Reflection**  
 This task helped to understand how to filter by location. Regional order counts help companies understand geographic demand patterns.
 
+
+## Task 16 - Consumer Orders in West Region
+
+**Business Question**  
+Count orders where:
+
+- Segment = Consumer
+- Region = West
+
+**Answer**  
+![Consumer_orders_in_West_Region](Screenshots/task_16.png)
+
+**Reflection**  
+This task helped to practice multi‑criteria counting. This is useful for segment‑based analysis.
