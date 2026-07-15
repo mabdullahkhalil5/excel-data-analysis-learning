@@ -217,4 +217,13 @@ Calculate how many days each shipment took.
 This task helped to calculate logistics metrics. Measuring shipping days helps evaluate delivery efficiency and customer satisfaction.
 
 
+## Task 18 -  Business Days 
 
+**Business Question**  
+Calculate working days between Order Date and Ship Date.
+
+**Answer**  
+![Business_Days](Screenshots/task_18.png)
+
+**Reflection**  
+This task helped to understand calculate working days between dates. This is vital for SLA monitoring and ensuring timely deliveries.
