@@ -18,3 +18,13 @@ Find the customer name for a given Order ID.
 **Reflection**  
 This task helped me to understand how to quickly retrieve customer names from Order IDs, which is essential for customer service lookups.
 
+## Task 2 – Product Information Lookup
+
+**Business Question**  
+A salesperson enters a Product Name. Return its Category and Sub-Category.
+
+**Answer**  
+![Product_Information_Lockup](Screenshots/task_2.png)
+
+**Reflection**  
+I practiced returning multiple fields (Category, Sub-Category) at once, useful for product classification.
