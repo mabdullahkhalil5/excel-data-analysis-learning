@@ -62,3 +62,33 @@ Your formula should not return an incorrect value.
 
 **Reflection**  
 I understood the importance of exact matches to avoid wrong results when data entry errors occur.
+
+## Task 5 – Search Order (Latest Order)
+
+**Business Question**  
+One customer has placed many orders.
+
+Management wants to know:
+
+*What was the customer's most recent order?*
+
+**Answer**  
+![Search_order](Screenshots/task_5.png)
+
+**Reflection**  
+I learned to search backwards to find the most recent order, key for tracking customer activity.
+
+## Task 6 – First Order (First Order)
+
+**Business Question**  
+One customer has placed many orders.
+
+Management wants to know:
+
+*What was the customer's most first order?*
+
+**Answer**  
+![Search_order](Screenshots/task_6.png)
+
+**Reflection**  
+I practiced searching forward to identify first purchases, useful for onboarding analysis.
