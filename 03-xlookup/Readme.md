@@ -28,3 +28,20 @@ A salesperson enters a Product Name. Return its Category and Sub-Category.
 
 **Reflection**  
 I practiced returning multiple fields (Category, Sub-Category) at once, useful for product classification.
+
+## Task 3 – Customer Profile
+
+**Business Question**  
+HR wants to know the customer's Segment and Region using Customer ID.
+
+Return:
+
+- Customer Name
+- Segment
+- Region
+
+**Answer**  
+![Product_Information_Lockup](Screenshots/task_3.png)
+
+**Reflection**  
+I learned how XLOOKUP can pull full customer details, strengthening segmentation analysis.
