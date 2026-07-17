@@ -45,3 +45,20 @@ Return:
 
 **Reflection**  
 I learned how XLOOKUP can pull full customer details, strengthening segmentation analysis.
+
+## Task 4 – Exact Match
+
+**Business Question**  
+A manager accidentally types:
+
+*Californi*
+instead of
+*California*
+
+Your formula should not return an incorrect value.
+
+**Answer**  
+![Product_Information_Lockup](Screenshots/task_4.png)
+
+**Reflection**  
+I understood the importance of exact matches to avoid wrong results when data entry errors occur.
