@@ -92,3 +92,14 @@ Management wants to know:
 
 **Reflection**  
 I practiced searching forward to identify first purchases, useful for onboarding analysis.
+
+## Task 7 – Horizontal Lookup
+
+**Business Question**  
+Return Sales for all months in a row.
+
+**Answer**  
+![horizontal_lookup](Screenshots/task_7.png)
+
+**Reflection**  
+This task helped me to discover XLOOKUP that works across rows, making monthly KPI retrieval easier.
