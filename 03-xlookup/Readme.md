@@ -103,3 +103,15 @@ Return Sales for all months in a row.
 
 **Reflection**  
 This task helped me to discover XLOOKUP that works across rows, making monthly KPI retrieval easier.
+
+## Task 8 – Regional Revenue
+
+**Business Question**  
+Managers have regional sales targets.
+Use XLOOKUP to return the target for a selected region.
+
+**Answer**  
+![Regional_Revenue](Screenshots/task_8.png)
+
+**Reflection**  
+I applied XLOOKUP to fetch regional targets, aligning sales with management goals.
