@@ -115,3 +115,51 @@ Use XLOOKUP to return the target for a selected region.
 
 **Reflection**  
 I applied XLOOKUP to fetch regional targets, aligning sales with management goals.
+
+## Task 9 – Regional Performance
+
+**Business Question**  
+Compare:
+
+Actual Sales
+vs
+Target Sales
+
+Calculate:
+
+Variance = Actual − Target
+
+**Answer**  
+![Regional_Performance](Screenshots/task_9.png)
+
+**Reflection**  
+This task helped me to combine lookup with arithmetic to calculate variance, vital for performance monitoring.
+
+## Task 10 – Sales + Target
+
+**Business Question**  
+For a selected region, calculate:
+
+Actual Sales
++
+Target
+
+**Answer**  
+![Sales+Target](Screenshots/task_10.png)
+
+**Reflection**  
+This task helped me to nest XLOOKUP in formulas, showing how to build flexible reporting metrics.
+
+## Task 11 – XLOOKUP with SUM
+
+**Business Question**  
+
+The CEO wants total sales for a selected customer.
+
+If a customer has multiple orders, use a lookup to identify the customer or category and then aggregate the relevant sales (or use XLOOKUP to retrieve criteria from a helper table and combine it with SUMIF/SUMIFS).
+
+**Answer**  
+![xlookup_with_sum](Screenshots/task_11.png)
+
+**Reflection**  
+This task helped me to nest XLOOKUP in formulas, showing how to build flexible reporting metrics.
