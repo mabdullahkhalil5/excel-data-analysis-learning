@@ -200,3 +200,18 @@ using Customer ID.
 
 **Reflection**  
 This task helped me to retrieve multiple contact details from one ID, simulating Customer Relationship Management functionality.
+
+## Task 14 – Product Price Lookup
+
+**Business Question**  
+Create:
+
+| Product | Standard Price |
+
+Return product price from the price list.
+
+**Answer**  
+![Product_Price_Lookup](Screenshots/task_14.png)
+
+**Reflection**  
+This task helped me to replace manual searches with automated lookups, streamlining pricing analysis.
