@@ -163,3 +163,40 @@ If a customer has multiple orders, use a lookup to identify the customer or cate
 
 **Reflection**  
 This task helped me to nest XLOOKUP in formulas, showing how to build flexible reporting metrics.
+
+## Task 12 – Regional Manager Lookup
+
+**Business Question**  
+
+The Sales Director wants to know:
+
+*Who is responsible for each sales region?*
+
+Return the Regional Manager based on Region.
+
+**Answer**  
+![Regional_Manager_Lookup](Screenshots/task_12.png)
+
+**Reflection**  
+This task helped me to understand regions to managers, reinforcing relational data thinking.
+
+## Task 13 – Customer Contact Lookup
+
+**Business Question**  
+Create a customer table:
+
+| Customer ID | Name |Phone | Email |
+
+Return:
+
+- Customer Name
+- Phone
+- Email
+
+using Customer ID.
+
+**Answer**  
+![Customer_Contact_Lookup](Screenshots/task_13.png)
+
+**Reflection**  
+This task helped me to retrieve multiple contact details from one ID, simulating Customer Relationship Management functionality.
