@@ -215,3 +215,21 @@ Return product price from the price list.
 
 **Reflection**  
 This task helped me to replace manual searches with automated lookups, streamlining pricing analysis.
+
+## Task 14 – XLOOKUP vs VLOOKUP
+
+**Business Question**  
+
+Find the Customer Name using Customer ID.
+
+Solve it with:
+
+- XLOOKUP
+- VLOOKUP
+
+**Answer**  
+![Xlookup_vs_Vlookup](Screenshots/task_15.png)
+
+**Reflection**  
+This task helped me to compare both functions and saw XLOOKUP’s flexibility in looking left without rearranging data
+
