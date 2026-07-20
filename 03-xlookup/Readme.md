@@ -216,7 +216,7 @@ Return product price from the price list.
 **Reflection**  
 This task helped me to replace manual searches with automated lookups, streamlining pricing analysis.
 
-## Task 14 – XLOOKUP vs VLOOKUP
+## Task 15 – XLOOKUP vs VLOOKUP
 
 **Business Question**  
 
