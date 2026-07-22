@@ -55,3 +55,16 @@ Which regions generate the highest sales?
 
 **Reflection**  
 This task showed me how to compare regions at a glance. It emphasized the value of visual cues in spotting strong and weak markets.
+
+## Task 5 - Monthly Sales Trend
+
+**Business Question**  
+Which months perform best?
+
+**Answer**  
+![monthly_sales_trend](Screenshots/task_5.png)
+
+*November and December have highest Sales.*
+
+**Reflection**  
+This task helped me visualize monthly performance directly in the table using data bars. This taught me how conditional formatting can replace charts for quick trend analysis.
