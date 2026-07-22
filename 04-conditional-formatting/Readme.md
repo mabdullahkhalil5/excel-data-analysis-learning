@@ -30,3 +30,15 @@ Which orders are losing money?
 
 **Reflection**  
 This task helped me to understand how conditional formatting can act as a red‑flag system for financial losses.
+
+## Task 3 - High Discount Alert
+
+**Business Question**  
+Which orders have unusually high discounts greater than 30%?
+
+**Answer**  
+![high_discount_alert](Screenshots/task_3(a).png)
+![high_discount_alert](Screenshots/task_3(b).png)
+
+**Reflection**  
+This task  can erode profitability by highlighting discounts above 30% them visually helps analysts and managers monitor pricing risks in real time.
