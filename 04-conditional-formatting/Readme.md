@@ -42,3 +42,16 @@ Which orders have unusually high discounts greater than 30%?
 
 **Reflection**  
 This task  can erode profitability by highlighting discounts above 30% them visually helps analysts and managers monitor pricing risks in real time.
+
+## Task 4 - Regional Performance Heat Map
+
+**Business Question**  
+Which regions generate the highest sales?
+
+**Answer**  
+![regional_performance_heatmap](Screenshots/task_4.png)
+
+*West and East Regions have highest Sales.*
+
+**Reflection**  
+This task showed me how to compare regions at a glance. It emphasized the value of visual cues in spotting strong and weak markets.
