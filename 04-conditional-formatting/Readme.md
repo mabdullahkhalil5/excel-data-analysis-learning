@@ -68,3 +68,18 @@ Which months perform best?
 
 **Reflection**  
 This task helped me visualize monthly performance directly in the table using data bars. This taught me how conditional formatting can replace charts for quick trend analysis.
+
+## Task 6 - Profit Margin Categories
+
+**Business Question**  
+Which products are highly profitable?
+- Profit > 500 → Green
+- 0–500 → Yellow
+- <0 → Red
+
+**Answer**  
+![profit_margin_categories](Screenshots/task_6(a).png)
+![profit_margin_categories](Screenshots/task_6(b).png)
+
+**Reflection**  
+This task helped me to create multiple rules (green/yellow/red) showed me how to categorize profitability. This reinforced how formatting can guide decision‑making on product priorities.
