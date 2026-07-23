@@ -128,3 +128,17 @@ Which orders took more than 5 days to ship?
 
 **Reflection**  
 This task helped me to understand how formula‑based rules can help me to flag orders with >5 shipping days. This showed me how conditional formatting can monitor operational KPIs.
+
+## Task 10 - Top 20 Customers
+
+**Business Question**  
+Which customers generated the highest sales?
+
+Highlight the top 20 customer sales values.
+
+**Answer**  
+![top_20_customers](Screenshots/task_10.png)
+
+
+**Reflection**  
+This task helped me to understand how formatting can support customer segmentation.
