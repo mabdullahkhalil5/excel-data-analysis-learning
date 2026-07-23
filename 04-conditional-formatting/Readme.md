@@ -83,3 +83,16 @@ Which products are highly profitable?
 
 **Reflection**  
 This task helped me to create multiple rules (green/yellow/red) showed me how to categorize profitability. This reinforced how formatting can guide decision‑making on product priorities.
+
+## Task 7 - Duplicate Order IDs
+
+**Business Question**  
+Are there duplicate Order IDs?
+
+**Answer**  
+![duplicate_order_ids](Screenshots/task_7.png)
+
+*Yes, there are many duplicate order IDs.*
+
+**Reflection**  
+This task helped me to detect duplicates improved my understanding of data quality checks. 
