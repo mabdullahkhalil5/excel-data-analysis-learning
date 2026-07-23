@@ -116,3 +116,15 @@ Highlight blank cells in:
 
 **Reflection**  
 This task helped me to understand how to ensure data completeness. This is critical for customer analysis and CRM accuracy.
+
+## Task 9 - Shipping Delay Alert
+
+**Business Question**  
+Which orders took more than 5 days to ship?
+
+**Answer**  
+![shipping_delay_alert](Screenshots/task_9.png)
+
+
+**Reflection**  
+This task helped me to understand how formula‑based rules can help me to flag orders with >5 shipping days. This showed me how conditional formatting can monitor operational KPIs.
