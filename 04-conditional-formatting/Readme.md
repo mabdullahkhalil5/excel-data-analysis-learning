@@ -96,3 +96,23 @@ Are there duplicate Order IDs?
 
 **Reflection**  
 This task helped me to detect duplicates improved my understanding of data quality checks. 
+
+## Task 8 - Missing Customer Information
+
+**Business Question**  
+Are any important fields blank?
+
+Highlight blank cells in:
+
+- Customer Name
+- Product Name
+- Region
+- Practice
+
+**Answer**  
+![missing_customer_information](Screenshots/task_8.png)
+
+*Not an important, but one order's postal code is missing.*
+
+**Reflection**  
+This task helped me to understand how to ensure data completeness. This is critical for customer analysis and CRM accuracy.
