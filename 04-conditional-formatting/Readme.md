@@ -169,3 +169,16 @@ Highlight profits below average.
 
 **Reflection**  
 This task helped me to Identify underperforming products taught me how to focus improvement efforts.
+
+## Task 13 - Dynamic Region Filter
+
+**Business Question**  
+Highlight all rows for a selected region.
+
+**Answer**  
+![dynamic_region_filter](Screenshots/task_13(a).png)
+![dynamic_region_filter](Screenshots/task_13(b).png)
+
+**Reflection**  
+This task helped me to understand how to make reports dynamic without PivotTables.
+
