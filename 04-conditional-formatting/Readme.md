@@ -155,3 +155,17 @@ Which orders are above the average sales value?
 
 **Reflection**  
 This task helped me to Highlight above‑average sales helped me quickly spot strong performers. This showed me how averages can serve as benchmarks in analysis.
+
+## Task 12 - Below Average Profit
+
+**Business Question**  
+Which products are underperforming?
+
+Highlight profits below average.
+
+**Answer**  
+![below_average_profit](Screenshots/task_12(a).png)
+![below_average_profit](Screenshots/task_12(b).png)
+
+**Reflection**  
+This task helped me to Identify underperforming products taught me how to focus improvement efforts.
