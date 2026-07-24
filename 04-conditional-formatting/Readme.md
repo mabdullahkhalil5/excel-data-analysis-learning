@@ -142,3 +142,16 @@ Highlight the top 20 customer sales values.
 
 **Reflection**  
 This task helped me to understand how formatting can support customer segmentation.
+
+## Task 11 - Above Average Sales
+
+**Business Question**  
+Which orders are above the average sales value?
+
+**Answer**  
+![above_average_sales](Screenshots/task_11(a).png)
+![above_average_sales](Screenshots/task_11(b).png)
+
+
+**Reflection**  
+This task helped me to Highlight above‑average sales helped me quickly spot strong performers. This showed me how averages can serve as benchmarks in analysis.
