@@ -182,3 +182,18 @@ Highlight all rows for a selected region.
 **Reflection**  
 This task helped me to understand how to make reports dynamic without PivotTables.
 
+## Task 14 - Weekend Orders
+
+**Business Question**  
+Were any orders placed on weekends?
+
+Highlight rows where the Order Date falls on Saturday or Sunday.
+
+**Answer**  
+![weekend_orders](Screenshots/task_14.png)
+
+
+**Reflection**  
+This task helped me to understand highlighting weekend orders can be useful to analyze customer behavior patterns.
+
+
