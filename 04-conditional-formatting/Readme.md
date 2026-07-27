@@ -196,4 +196,14 @@ Highlight rows where the Order Date falls on Saturday or Sunday.
 **Reflection**  
 This task helped me to understand highlighting weekend orders can be useful to analyze customer behavior patterns.
 
+## Task 15 - Executive Sales Dashboard
 
+**Business Question**  
+The CEO wants a one-page report where important KPIs stand out immediately.
+
+**Answer**  
+![executive_sales_dashboard](Screenshots/task_15(a).png)
+![executive_sales_dashboard](Screenshots/task_15(b).png)
+
+**Reflection**  
+Combining multiple rules into one dashboard taught me how to design executive‑friendly reports. It reinforced the importance of clarity, prioritization, and visual storytelling in analytics.
