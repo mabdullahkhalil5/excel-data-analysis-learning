@@ -19,4 +19,4 @@ Which region generates the highest sales?
 *West Region* generates highest sales.
 
 **Reflection**  
-I learned how to highlight the top 10 sales orders, which makes it easy for managers to spot high‑value transactions without scanning the entire dataset.
+I learned how to use clustered column charts to compare regions. This showed me how visual comparisons can quickly highlight the strongest markets for investment.
