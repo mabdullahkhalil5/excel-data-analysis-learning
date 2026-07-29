@@ -58,5 +58,15 @@ The sub-category of *copiers* generates most profit.
 **Reflection**  
 Ranking sub‑categories by profit taught me how to prioritize profitable groups. It highlighted the value of sorting and labeling for clear storytelling.
 
+## Task 5 – Sales by Customer Segment
 
+**Business Question**  
+How is revenue distributed across customer segments?
+
+**Answer**  
+![sales_by_customer_segment](Screenshots/task_5.png)
+
+
+**Reflection**  
+Pie charts helped me visualize customer composition. This taught me how to communicate part‑to‑whole relationships in a simple way.
 
