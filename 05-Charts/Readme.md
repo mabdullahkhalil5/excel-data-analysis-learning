@@ -40,8 +40,23 @@ Which product category contributes the most revenue?
 **Answer**  
 ![sales_by_product_category](Screenshots/task_3.png)
 
+*Technology* category contributes most revenue.
+
 **Reflection**  
 Bar charts helped me compare categories side by side. This showed me how to identify the company’s strongest product line and prioritize resources.
+
+## Task 4 – Profit by Sub-Category
+
+**Business Question**  
+Which sub-categories generate the most profit?
+
+**Answer**  
+![profit_by_sub-category](Screenshots/task_4.png)
+
+The sub-category of *copiers* generates most profit.
+
+**Reflection**  
+Ranking sub‑categories by profit taught me how to prioritize profitable groups. It highlighted the value of sorting and labeling for clear storytelling.
 
 
 
