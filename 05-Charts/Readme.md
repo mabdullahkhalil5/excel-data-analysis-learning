@@ -32,4 +32,16 @@ How have sales changed over time?
 **Reflection**  
 Creating line charts taught me how to identify seasonality and growth patterns. It reinforced the importance of time‑series analysis in forecasting.
 
+## Task 3 – Sales by Product Category
+
+**Business Question**  
+Which product category contributes the most revenue?
+
+**Answer**  
+![sales_by_product_category](Screenshots/task_3.png)
+
+**Reflection**  
+Bar charts helped me compare categories side by side. This showed me how to identify the company’s strongest product line and prioritize resources.
+
+
 
