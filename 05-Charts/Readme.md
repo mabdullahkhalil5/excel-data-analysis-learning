@@ -65,8 +65,21 @@ How is revenue distributed across customer segments?
 
 **Answer**  
 ![sales_by_customer_segment](Screenshots/task_5.png)
-
+- Consumer Segment holds 50% revenue.
+- Corporate Segment holds 31% revenue.
+- Home Office Segment holds 19% revenue.
 
 **Reflection**  
 Pie charts helped me visualize customer composition. This taught me how to communicate part‑to‑whole relationships in a simple way.
 
+## Task 6 – Top 10 Customers
+
+**Business Question**  
+Who are the highest-value customers?
+- Create a Horizontal Bar Chart of the Top 10 customers by sales.
+
+**Answer**  
+![top_10_customers](Screenshots/task_6.png)
+
+**Reflection**  
+Highlighting VIP customers with bar charts showed me how to focus on loyalty programs. It reinforced the importance of ranking in customer analysis.
