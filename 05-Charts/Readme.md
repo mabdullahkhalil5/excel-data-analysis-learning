@@ -83,3 +83,16 @@ Who are the highest-value customers?
 
 **Reflection**  
 Highlighting VIP customers with bar charts showed me how to focus on loyalty programs. It reinforced the importance of ranking in customer analysis.
+
+## Task 7 – Discount vs Profit Relationship
+
+**Business Question**  
+Do higher discounts reduce profit?
+
+**Answer**  
+![discount_vs_profit_relationship](Screenshots/task_7.png)
+
+*Yes*, higher discounts reduce profit.
+
+**Reflection**  
+Scatter plots revealed the correlation between discounts and profit. This taught me how to investigate pricing risks and profitability trade‑offs.
