@@ -115,10 +115,24 @@ Histograms helped me analyze shipping delays. This showed me how distribution an
 How long does shipping take?
 
 **Answer**  
-![shipping_performance](Screenshots/task_9.png)
+![sales_by_state](Screenshots/task_9.png)
 
 *California* generates highest revenue.
 
 
 **Reflection**  
 Ranked bar charts taught me how to identify top‑performing states. This reinforced the link between visualization and regional investment decisions.
+
+## Task 10 – Monthly Profit Trend
+
+**Business Question**  
+How does profit change throughout the year?
+
+**Answer**  
+![monthly_profit_trend](Screenshots/task_9.png)
+
+*California* generates highest revenue.
+
+
+**Reflection**  
+Line charts for profit trends taught me how to compare revenue growth with profitability. It emphasized the importance of analyzing multiple measures together.
