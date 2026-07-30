@@ -129,10 +129,7 @@ Ranked bar charts taught me how to identify top‑performing states. This reinfo
 How does profit change throughout the year?
 
 **Answer**  
-![monthly_profit_trend](Screenshots/task_9.png)
-
-*California* generates highest revenue.
-
+![monthly_profit_trend](Screenshots/task_10.png)
 
 **Reflection**  
 Line charts for profit trends taught me how to compare revenue growth with profitability. It emphasized the importance of analyzing multiple measures together.
