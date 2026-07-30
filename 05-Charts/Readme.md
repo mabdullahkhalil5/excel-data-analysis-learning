@@ -96,3 +96,15 @@ Do higher discounts reduce profit?
 
 **Reflection**  
 Scatter plots revealed the correlation between discounts and profit. This taught me how to investigate pricing risks and profitability trade‑offs.
+
+## Task 8 – Shipping Performance
+
+**Business Question**  
+How long does shipping take?
+
+**Answer**  
+![shipping_performance](Screenshots/task_8.png)
+
+
+**Reflection**  
+Histograms helped me analyze shipping delays. This showed me how distribution analysis can monitor operational efficiency.
