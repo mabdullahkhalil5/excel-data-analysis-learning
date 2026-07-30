@@ -108,3 +108,17 @@ How long does shipping take?
 
 **Reflection**  
 Histograms helped me analyze shipping delays. This showed me how distribution analysis can monitor operational efficiency.
+
+## Task 9 – Sales by State
+
+**Business Question**  
+How long does shipping take?
+
+**Answer**  
+![shipping_performance](Screenshots/task_9.png)
+
+*California* generates highest revenue.
+
+
+**Reflection**  
+Ranked bar charts taught me how to identify top‑performing states. This reinforced the link between visualization and regional investment decisions.
