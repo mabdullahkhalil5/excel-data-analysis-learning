@@ -133,3 +133,17 @@ How does profit change throughout the year?
 
 **Reflection**  
 Line charts for profit trends taught me how to compare revenue growth with profitability. It emphasized the importance of analyzing multiple measures together.
+
+## Task 11 – Sales vs Profit
+
+**Business Question**  
+Do products with higher sales generate higher profit?
+
+**Answer**  
+![monthly_profit_trend](Screenshots/task_11.png)
+
+*Yes, mostly* products with higher sales generate higher profit.
+
+**Reflection**  
+Scatter plots showed me that high sales don’t always mean high profit. This taught me how to detect outliers and focus on products needing attention.
+
