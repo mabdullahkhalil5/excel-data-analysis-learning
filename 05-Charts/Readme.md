@@ -172,4 +172,16 @@ How does each category perform across sales and profit?
 **Reflection**  
 Combo charts taught me how to compare sales and profit together. This reinforced the importance of dual‑axis charts in executive reporting.
 
+## Task 14 – Executive Sales Dashboard
+
+**Business Question**  
+The CEO wants a one-page visual summary.
+
+**Answer**  
+![category_performance_dashboard](Screenshots/task_14(a).png)
+![category_performance_dashboard](Screenshots/task_14(b).png)
+
+
+**Reflection**  
+Building a one‑page dashboard taught me how to integrate multiple charts with consistent formatting. It emphasized clarity and storytelling for decision‑makers.
 
