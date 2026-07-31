@@ -160,4 +160,16 @@ Which shipping method generates the highest sales?
 **Reflection**  
 Column charts helped me compare shipping methods. This showed me how to evaluate logistics options and their impact on revenue.
 
+## Task 13 – Category Performance Dashboard
+
+**Business Question**  
+How does each category perform across sales and profit?
+
+**Answer**  
+![category_performance_dashboard](Screenshots/task_13.png)
+
+
+**Reflection**  
+Combo charts taught me how to compare sales and profit together. This reinforced the importance of dual‑axis charts in executive reporting.
+
 
