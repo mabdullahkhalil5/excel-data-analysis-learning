@@ -147,3 +147,17 @@ Do products with higher sales generate higher profit?
 **Reflection**  
 Scatter plots showed me that high sales don’t always mean high profit. This taught me how to detect outliers and focus on products needing attention.
 
+## Task 12 – Sales by Ship Mode
+
+**Business Question**  
+Which shipping method generates the highest sales?
+
+**Answer**  
+![sales_by_ship_mode](Screenshots/task_12.png)
+
+*Standard class* generates highest sales.
+
+**Reflection**  
+Column charts helped me compare shipping methods. This showed me how to evaluate logistics options and their impact on revenue.
+
+
