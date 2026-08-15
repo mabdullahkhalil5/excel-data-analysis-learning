@@ -71,3 +71,82 @@ Which orders cannot be used for email marketing?
 
 **Reflection**  
 Identifying missing emails highlighted how CRM and marketing depend on complete customer records. Analysts must flag gaps that weaken engagement strategies.
+
+## Task 6 – Clean Discount Codes
+
+**Business Question**  
+How many discount codes are actually unique?
+
+**Answer**  
+![clean_discount_codes](Screenshots/task_6.png)
+
+*Total 5* discount codes are actually unique.
+
+**Reflection**  
+Standardizing discount codes prevented duplicate coupon reporting. I realized that even small inconsistencies can distort promotional performance metrics.
+
+## Task 7 – Convert Currency Text to Numbers
+
+**Business Question**  
+Can financial metrics be calculated correctly?
+
+**Answer**  
+![convert_currency_text_to_numbers](Screenshots/task_7(a).png)
+![convert_currency_text_to_numbers](Screenshots/task_7(b).png)
+
+*Yes, After conversion* they can be used for calculation.
+
+**Reflection**  
+Converting currency text into currency numbers enabled accurate financial calculations.
+
+## Task 8 – Remove Test Orders
+
+**Business Question**  
+Should test transactions be included in business reports?
+
+**Answer**  
+
+- *No,* test transactions should not be included in business reports.
+- And fortuntly, They are not in this dataset.
+
+**Reflection**  
+Removing test orders helps to get rid of fake transactions can inflate KPIs. Analysts must filter operational noise before reporting.
+
+## Task 9 – Remove Duplicate Orders  
+
+**Business Question**  
+Are duplicate orders inflating revenue?
+
+**Answer**  
+<figure>
+  <img src="Screenshots/task_9(a).png" alt="remove_duplicate_orders">
+  <figcaption>Figure 1: Before removing duplicate orders</figcaption>
+</figure>
+
+<figure>
+  <img src="Screenshots/task_9(b).png" alt="remove_duplicate_orders">
+  <figcaption>Figure 2: After removing duplicate orders</figcaption>
+</figure>
+
+
+*Yes, 35 duplicate orders* were inflating revenue which are now removed.
+
+**Reflection**  
+Eliminating duplicate orders reinforced that revenue accuracy depends on clean transaction logs. Trust in dashboards starts with trustworthy inputs.
+
+## Task 10 – Validate Quantities
+
+**Business Question**  
+Do negative quantities represent returns or errors?
+
+**Answer**  
+![validate_quantities](Screenshots/task_10(a).png)
+*Before Removing negative quantities*
+
+![validate_quantities](Screenshots/task_10(b).png)
+*After removing negative quantities*
+
+*Yes,* there are data entry errors. Now they are corrected.
+
+**Reflection**  
+Negative quantities as errors showed me that analysts must interpret anomalies in business context, not just flag them.
