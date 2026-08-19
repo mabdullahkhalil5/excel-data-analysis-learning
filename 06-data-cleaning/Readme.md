@@ -150,3 +150,69 @@ Do negative quantities represent returns or errors?
 
 **Reflection**  
 Negative quantities as errors showed me that analysts must interpret anomalies in business context, not just flag them.
+
+## Task 11 – Validate Total Amount
+
+**Business Question**  
+Are order totals calculated correctly?
+
+**Answer**  
+![validate_total_amount](Screenshots/task_11.png)
+
+*No,*  10 orders are not calculated correctly. These are now corrected.
+
+**Reflection**  
+Recalculating totals revealed mismatches in pricing logic. I learned that analysts safeguard financial credibility by verifying calculations.
+
+## Task 12 – Detect Sales Outliers 
+
+**Business Question**  
+Which orders have unusually high totals?
+
+**Answer**  
+![detect_sales_outliers](Screenshots/task_12.png)
+
+**Reflection**  
+- The IQR method flagged order totals above $81.355 as statistical outliers. However, investigation showed that many values between $82 and $359 represented realistic high-value orders rather than data errors.
+- Outlier detection is not about removing all flagged values; it’s about interpreting context. In ecommerce, bulk purchases or premium products naturally generate higher totals.
+
+## Task 13 – Validate SKU Consistency 
+
+**Business Question**  
+Does every product use a consistent SKU?
+
+**Answer**  
+![validate_SKU_consistency](Screenshots/task_13.png)
+
+All products *except one* product use a consistent SKU.
+
+**Reflection** 
+
+Checking SKU consistency showed me that catalog integrity underpins inventory and sales analysis. Without it, product-level insights collapse. 
+
+## Task 14 – Create a Data Quality Dashboard 
+
+**Business Question**  
+How clean is the Shopify order data?
+
+**Answer**  
+![data_quality_dashboard](Screenshots/task_14.png)
+
+**Reflection** 
+
+Building a dashboard visualized improvements and KPIs. I realized that communicating data quality builds stakeholder trust.
+
+## Task 15 – Clean Dataset Export
+
+**Business Scnerio**  
+The analytics team needs a clean dataset for reporting.
+
+**Delivery**  
+- A file of dataset after cleaning is exported and saved.
+
+**Reflection**
+
+Delivering a cleaned dataset taught me that the end goal of cleaning is usability. Analysts must produce reliable, ready-to-use data for decision-making.
+
+
+
